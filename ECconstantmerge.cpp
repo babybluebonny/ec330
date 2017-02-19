@@ -1,4 +1,4 @@
-//Extra credit: Complete merge sort via linked list for constant running time
+//Extra credit: Complete merge sort via linked list for constant space complexity
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
